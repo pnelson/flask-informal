@@ -1,0 +1,14 @@
+Flask-Informal
+==============
+
+Wow, was I trying too hard with the project name or what?
+
+Anyway, this project was written and abandoned in 2011. Also, security is
+dangerous stuff. Use something well known instead. I only kept it around because
+I spent a lot of time on it as I learned about metaclasses and descriptors.
+
+Obviously it could use a lot of refactoring as there is a lot of duplicate code
+between classes. The RegEx class is a disaster as it can't be deepcopied or
+pickled and I never could figure out how to get that working.
+
+Anyway, here it is. I'm open for some constructive criticism.
